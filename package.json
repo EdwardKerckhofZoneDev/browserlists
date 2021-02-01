@@ -1,0 +1,30 @@
+{
+  "name": "browserslistrc",
+  "version": "1.0.0",
+  "description": "Custom .browserlistsrc config file I like to use",
+  "main": "src/index.js",
+  "bin": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "EdwardKerckhofZoneDev <edward@zonedev.be>",
+  "license": "MIT",
+  "keywords": [
+    "config",
+    "browserlistsrc",
+    "browserlists",
+    "html",
+    "code"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EdwardKerckhofZoneDev/browserslistrc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EdwardKerckhofZoneDev/browserslistrc/issues"
+  },
+  "homepage": "https://github.com/EdwardKerckhofZoneDev/browserslistrc#readme",
+  "private": false,
+  "devDependencies": {},
+  "dependencies": {}
+}
